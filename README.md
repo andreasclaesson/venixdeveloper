@@ -1,9 +1,9 @@
 # Hello there, I am Juicy 👋 
 
-- 💻 I often code Discord Bots alone!
+- 💻 I am Co-Founder & Developer at [Drivet](https://drivet.xyz).
 - 💎 You can check out my [personal website](https://juicy.systems).
-- 🕹 Contact me on my email [me@juicy.systems](https://github.com/epicjuicy) or my [Discord Server](https://discord.juicy.systems).
+- 🕹 Need to contact me? E-mail me at [me@juicy.systems](https://github.com/venixdeveloper).
 
-![Profile Views](https://komarev.com/ghpvc/?username=epicjuicy)
+![Profile Views](https://komarev.com/ghpvc/?username=venixdeveloper)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=epicjuicy&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=venixdeveloper&show_icons=true&theme=tokyonight)
