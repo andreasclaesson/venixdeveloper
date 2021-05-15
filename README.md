@@ -1,4 +1,4 @@
-# Hello there, I am Juicy 👋 
+# Hello there, I am Venix 👋 
 
 - 💻 I am Co-Founder & Developer at [Drivet](https://drivet.xyz).
 - 💎 You can check out my [personal website](https://juicy.systems).
