@@ -1,9 +1,7 @@
-# VenixDev
-Hello there, welcome to my GitHub Profile! 😊
-<br> Here, you will find all of my open source projects. 80% of my reps is private.
-
-[![VC](https://shields-io-visitor-counter.herokuapp.com/badge?page=VenixDeveloper.VenixDeveloper&label=VISITIORS&labelColor=151515&color=151515&style=for-the-badge)](#)
-
-[![VenixDeveloper's GitHub Stats](https://github-readme-stats.vercel.app/api?username=venixdeveloper&show_icons=true&count_private=true&layout=compact&theme=dark)](https://github.com/venixdeveloper)
-
-[![Venix Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venixdeveloper&theme=dark)](https://github.com/venixdeveloper)
+👋 Hey! Welcome to my GitHub profile.
+<br>
+My name is **Andreas**, but most people call me **Venix** (I also use it in games etc).
+<br><br>
+Anyways, I am born in 🇸🇪 Sweden in a very small city. I enjoy staying inside on 🌧️ rainy days.
+<br><br>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,nextjs,nginx,mysql,linux)](https://github.com/andreasclaesson)
